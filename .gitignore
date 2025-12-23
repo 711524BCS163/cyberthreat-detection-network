@@ -1,0 +1,13 @@
+/build/
+/bin/
+*.o
+*.obj
+*.exe
+*.pdb
+.vscode/
+**/CMakeFiles/
+**/CMakeCache.txt
+**/Makefile
+**/cmake_install.cmake
+/.idea/
+/.DS_Store

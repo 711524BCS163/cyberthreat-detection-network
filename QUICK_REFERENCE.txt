@@ -1,0 +1,4 @@
+Quick reference:
+- Build: mkdir build && cd build && cmake .. && cmake --build .
+- Run demo: ./bin/threat_detection_system --demo
+- Run tests: ctest --output-on-failure
